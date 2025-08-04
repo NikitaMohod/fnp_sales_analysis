@@ -26,8 +26,9 @@ The dashboard analysis indicates:
 - Color-based products outperform other categories.
 - Imphal, Dhanbad, and Kavali are the top-performing cities.
 - Revenue peaks occur during March and September, with high customer engagement in morning and evening hours.
+- Average order delivery time is 5.53 days, suggesting a reasonably efficient supply chain.
 
 ### Conclusion
 This Excel dashboard provides a comprehensive, visual-driven approach to understanding sales dynamics across various business dimensions. It helps uncover actionable insights that can be leveraged to improve targeting, optimize product offerings, and enhance regional strategies. The dashboard's interactive nature makes it a valuable tool for analysts, marketers, and decision-makers seeking to monitor and enhance sales performance effectively.
 
-Average order delivery time is 5.53 days, suggesting a reasonably efficient supply chain.
+
