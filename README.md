@@ -8,6 +8,7 @@ The FNP Sales Analysis Dashboard is an interactive Excel-based reporting tool de
 - Sum of Revenue: Represents the cumulative revenue generated from all orders.
 - Order-Delivery Time: Shows the average number of days between order placement and delivery.
 - Average Customer Revenue: Calculates the average amount spent per customer.
+
 These KPIs offer a quick overview of the business performance during the selected period.
 
 ### Dashboard Components and Visualizations 
