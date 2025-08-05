@@ -16,11 +16,29 @@ These KPIs offer a quick overview of the business performance during the selecte
   <img width="519" height="312" alt="image" src="https://github.com/user-attachments/assets/76f3da5b-8ea4-4b0f-bd70-2358a2edf448" />
 
 - Revenue by Category: Highlights top-performing product categories such as Colors, Soft Toys, and Cakes.
+  <img width="534" height="313" alt="image" src="https://github.com/user-attachments/assets/5a5c10e2-8145-4432-8d71-686163f8001f" />
+
 - Revenue by Cities: Shows geographic performance, revealing key revenue-generating cities like Imphal and Dhanbad.
+  <img width="537" height="313" alt="image" src="https://github.com/user-attachments/assets/6e71385d-712b-4b27-be64-f8f82538053e" />
+
 - Revenue by Months: Displays monthly revenue trends to uncover seasonal peaks and slow periods.
+  <img width="528" height="316" alt="image" src="https://github.com/user-attachments/assets/30b356d5-5bf7-48a1-afbc-2d86570e3093" />
+
 - Top 5 Products by Revenue: Lists the highest-selling products based on total revenue.
+  <img width="529" height="314" alt="image" src="https://github.com/user-attachments/assets/2aa40691-f59c-417f-abe5-b3c08826e9eb" />
+
 - Revenue by Hours (Order Time): Analyzes customer purchasing patterns throughout the day.
+  <img width="536" height="314" alt="image" src="https://github.com/user-attachments/assets/d7b19eea-e350-4f4a-b67b-f46fb5a4b1fd" />
+
 - Interactive Filters (Slicers): Enables dynamic filtering by order date, delivery date, and occasion for real-time insights.
+- Order_date
+  <img width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/6d11ee35-9345-4a1c-85cd-16388480f0eb" />
+- Dilivery_date
+  <img width="255" height="160" alt="image" src="https://github.com/user-attachments/assets/88514ba3-a6ce-44c3-a2d0-75d321711551" />
+- Occassion
+  <img width="193" height="322" alt="image" src="https://github.com/user-attachments/assets/18894d70-1aad-4045-bde7-0cf96ecd06e5" />
+
+
 
 ### Analysis 
 The dashboard analysis indicates:
