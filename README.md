@@ -32,10 +32,13 @@ These KPIs offer a quick overview of the business performance during the selecte
 
 - Interactive Filters (Slicers): Enables dynamic filtering by order date, delivery date, and occasion for real-time insights.
 - Order_date
+  
   <img width="246" height="173" alt="image" src="https://github.com/user-attachments/assets/6d11ee35-9345-4a1c-85cd-16388480f0eb" />
 - Dilivery_date
+  
   <img width="255" height="160" alt="image" src="https://github.com/user-attachments/assets/88514ba3-a6ce-44c3-a2d0-75d321711551" />
 - Occassion
+  
   <img width="193" height="322" alt="image" src="https://github.com/user-attachments/assets/18894d70-1aad-4045-bde7-0cf96ecd06e5" />
 
 
