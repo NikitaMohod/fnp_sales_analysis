@@ -13,6 +13,8 @@ These KPIs offer a quick overview of the business performance during the selecte
 
 ### Dashboard Components and Visualizations 
 - Revenue by Occasion: Identifies which customer occasions (e.g., Anniversary, Holi) contribute the most to overall revenue.
+  <img width="519" height="312" alt="image" src="https://github.com/user-attachments/assets/76f3da5b-8ea4-4b0f-bd70-2358a2edf448" />
+
 - Revenue by Category: Highlights top-performing product categories such as Colors, Soft Toys, and Cakes.
 - Revenue by Cities: Shows geographic performance, revealing key revenue-generating cities like Imphal and Dhanbad.
 - Revenue by Months: Displays monthly revenue trends to uncover seasonal peaks and slow periods.
